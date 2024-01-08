@@ -1,1 +1,6 @@
-C
+CALCULATOR :  A calculator is a device or tool designed to perform mathematical calculations. It can be a simple handheld device with buttons for numbers and basic operations,
+              or it can be a more sophisticated electronic device with advanced functions and features.
+
+Here i have made a basic functional calculator using HTML,CSS,JAVASCRIPT which perform some basic operations give as :
+
+Basic Operations: Most calculators can perform basic arithmetic operations such as addition, subtraction, multiplication, and division. They typically have numeric keys and special keys for these operations.
